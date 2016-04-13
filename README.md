@@ -1,6 +1,4 @@
 #[CodinGame][id1]
-CodinGame code source
-CodinGame代码示例资源
-https://www.codingame.com/
-
+CodinGame 游戏代码示例
+##本项目遵照MIT协议
 [id1]:https://www.codingame.com/
